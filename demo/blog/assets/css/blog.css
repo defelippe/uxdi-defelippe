@@ -101,7 +101,8 @@
   }
   figcaption {
     font-size: 0.8em;
-    color: #ccc;
+    color: rgb(70, 70, 70);
+    background-color: #ececec;
   }
   .link {
     text-decoration: underline;
