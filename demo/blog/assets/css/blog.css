@@ -147,10 +147,15 @@
   /*
    * Blog posts
    */
-  
+  .blog-list{
+    list-style: none;
+    padding: 0;    
+  }
+
   .blog-post {
     margin-bottom: 4rem;
   }
+
   .blog-post-title {
     margin-bottom: .25rem;
     font-size: 2.5rem;
